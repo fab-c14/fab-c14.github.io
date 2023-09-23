@@ -1,7 +1,5 @@
-# Respository For Hosting My Projects
-<br>
-### Here Are Some Project Names :  
-<br>
+# Respository For Hosting My Projects <br>
+### Here Are Some Project Names \: <br>
 - Background Generator / Igb
 - Images Gallery
 - My robo friends (react project)

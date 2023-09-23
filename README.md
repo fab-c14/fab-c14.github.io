@@ -1,6 +1,6 @@
 #Respository For Hosting My Projects
 <br>
-### <i>Here Are Some Project Names :  </i>
+### Here Are Some Project Names :  
 <br>
 -Background Generator / Igb
 -Images Gallery

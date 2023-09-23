@@ -2,9 +2,9 @@
 <br>
 ### <i>Here Are Some Project Names :  </i>
 <br>
-- Background Generator / Igb
-- Images Gallery
-- My robo friends (react project)
+-Background Generator / Igb
+-Images Gallery
+-My robo friends (react project)
 
 ## You can clone These Project and try them out on your computer
 ##### Here are commands to clone

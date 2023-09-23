@@ -1,16 +1,20 @@
-# Respository For Hosting My Projects
-### this respository hosts my projects and contains source code of my projects 
+# <b> Respository For Hosting My Projects</b>
+<br>
+### <i>Here Are Some Project Names :  </i>
 - Background Generator / Igb
 - Images Gallery
 - My robo friends (react project)
 
-  ## You can clone These Project and try them out on your computer
-  ##### Here are commands to clone
+## You can clone These Project and try them out on your computer
+##### Here are commands to clone
   ```pkg install git``` <br>
   ```git clone https://fab-c14/fab-c14.github.io``` <br>
   ```cd fab-c14.github.io/projectname``` <br>
-   ##### for runnning my react project type these additional commands
+##### <i>For Running My React Project On Your Computer </i>
   ```npm install``` <br>
+  ```npm start```<br>
+
+Thank Your, Check Out My Other Projects Here [Fab-c14](https://github.com)
 
 
 

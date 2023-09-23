@@ -6,6 +6,9 @@
 
   ## You can clone These Project and try them out on your computer
   ##### Here are commands to clone
-  ```pkg install git```
-  ```git clone https://fab-c14/fab-c14.github.io```
+  ```pkg install git``` <br>
+  ```git clone https://fab-c14/fab-c14.github.io``` <br>
+  ```cd fab-c14.github.io/projectname``` <br>
+   ##### for runnning my react project type these additional commands
+
 

@@ -13,7 +13,7 @@
   ```npm install``` <br>
   ```npm start```<br>
 
-Thank Your, Check Out My Other Projects Here <span style="color: green;">[Fab-c14](https://github.com)</span>
+Thank Your, Check Out My Other Projects Here **[Fab-c14](https://github.com)**
 
 
 
